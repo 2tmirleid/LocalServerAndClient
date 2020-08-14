@@ -1,0 +1,6 @@
+C:\Users\Пользователь\source\repos\LocalServer\LocalServer\bin\Debug\LocalServer.exe.config
+C:\Users\Пользователь\source\repos\LocalServer\LocalServer\bin\Debug\LocalServer.exe
+C:\Users\Пользователь\source\repos\LocalServer\LocalServer\bin\Debug\LocalServer.pdb
+C:\Users\Пользователь\source\repos\LocalServer\LocalServer\obj\Debug\LocalServer.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\LocalServer\LocalServer\obj\Debug\LocalServer.exe
+C:\Users\Пользователь\source\repos\LocalServer\LocalServer\obj\Debug\LocalServer.pdb
